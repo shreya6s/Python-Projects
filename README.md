@@ -1,4 +1,4 @@
-# Small Python Projects 💻
+# Python Projects 💻
 
 This repository is a treasure trove of small Python projects that I crafted with love and passion on [Replit](https://replit.com/). 🚀 These projects showcase my journey of learning and implementing various programming concepts and techniques.
 
