@@ -2,7 +2,7 @@
 
 This repository is a treasure trove of small Python projects that I crafted with love and passion on [Replit](https://replit.com/). 🚀 These projects showcase my journey of learning and implementing various programming concepts and techniques.
 
-**View all my projects on [Replit](https://replit.com/@sshreya2003suni)** 🌟
+**View all my projects on [myReplit](https://replit.com/@sshreya2003suni)** 🌟
 
 ## Some of the Projects Included 📚
 - **Project 1: [Hangman]**
